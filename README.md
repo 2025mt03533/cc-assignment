@@ -1,2 +1,2 @@
 # cc-assignment
-example
+exampleapp
